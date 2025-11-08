@@ -137,3 +137,34 @@ body {
     color: #1f2937;
     font-weight: 900;
 }
+
+.last-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.cta-container {
+    display: flex;
+    background-color: #3882f6;
+    padding: 40px;
+    gap: 50px;
+    color: #f9faf8;
+    border-radius: 10px;
+}
+
+.sign-up-two {
+    background-color: #3882f6;
+    padding: 10px 30px;
+    border: #f9faf8 solid 2px;
+    border-radius: 10px;
+    color: #f9faf8;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.cta-one {
+    font-weight: 900;
+    font-size: 20px;
+}
